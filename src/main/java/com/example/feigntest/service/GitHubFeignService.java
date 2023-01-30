@@ -2,13 +2,8 @@ package com.example.feigntest.service;
 
 import com.example.feigntest.client.GitHubFeignClient;
 import com.example.feigntest.dto.Contributor;
-
 import com.google.gson.JsonArray;
-
-
-
 import org.springframework.beans.factory.annotation.Autowired;
-
 import org.springframework.stereotype.Service;
 
 @Service
